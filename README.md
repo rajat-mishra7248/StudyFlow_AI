@@ -100,9 +100,6 @@ http://127.0.0.1:5173
 
 API keys and secrets should be stored in `.env` files locally.
 
-Never commit `.env` files or API keys to GitHub.
-
-## Author
 
 Rajat Mishra
 
